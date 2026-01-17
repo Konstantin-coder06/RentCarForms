@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\optionsofyes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931A005-0CD1-4E06-84CC-9258ACA34B97}|..\\RentCars\\RentCar.Core\\RentCar.Core.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.core\\controllerctype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931A005-0CD1-4E06-84CC-9258ACA34B97}|..\\RentCars\\RentCar.Core\\RentCar.Core.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.core\\controllercar_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|C:\\Users\\User\\Documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931A005-0CD1-4E06-84CC-9258ACA34B97}|..\\RentCars\\RentCar.Core\\RentCar.Core.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.core\\controllercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|C:\\Users\\User\\Documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\optionsofyes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931A005-0CD1-4E06-84CC-9258ACA34B97}|..\\RentCars\\RentCar.Core\\RentCar.Core.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.core\\controlleroffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ABECCD-AB78-443E-A36E-5360B1899B7B}|..\\RentCars\\RentCar.Console\\RentCar.Console.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56076ECF-7897-471B-B47A-5C03FB243955}|..\\RentCars\\RentCar.Data\\RentCar.Data.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.data\\entities\\car_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931A005-0CD1-4E06-84CC-9258ACA34B97}|..\\RentCars\\RentCar.Core\\RentCar.Core.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.core\\controllercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931A005-0CD1-4E06-84CC-9258ACA34B97}|..\\RentCars\\RentCar.Core\\RentCar.Core.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.core\\controlleradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56076ECF-7897-471B-B47A-5C03FB243955}|..\\RentCars\\RentCar.Data\\RentCar.Data.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.data\\rentcardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56076ECF-7897-471B-B47A-5C03FB243955}|..\\RentCars\\RentCar.Data\\RentCar.Data.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.data\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931A005-0CD1-4E06-84CC-9258ACA34B97}|..\\RentCars\\RentCar.Core\\RentCar.Core.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.core\\controllerreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56076ECF-7897-471B-B47A-5C03FB243955}|..\\RentCars\\RentCar.Data\\RentCar.Data.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.data\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\addremoveupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\no.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\yescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|C:\\Users\\User\\Documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\addremoveupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|C:\\Users\\User\\Documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\no.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|C:\\Users\\User\\Documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\yescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|C:\\Users\\User\\Documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25D13F1-9605-443C-BB02-B8EB8F5D2290}|..\\RentCars\\RentCar.WinForm1\\RentCar.WinForm1.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.winform1\\roundpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56076ECF-7897-471B-B47A-5C03FB243955}|..\\RentCars\\RentCar.Data\\RentCar.Data.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.data\\entities\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56076ECF-7897-471B-B47A-5C03FB243955}|..\\RentCars\\RentCar.Data\\RentCar.Data.csproj|c:\\users\\user\\documents\\razrabotka na softuer\\rentcars\\rentcar.data\\entities\\ctype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 4,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControllerCar.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerCar.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Core\\ControllerCar.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerCar.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Core\\ControllerCar.cs",
+              "ViewState": "AQIAAOkBAAAAAAAAAAAwwFgCAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:47:55.865Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Console\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Console\\Program.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Console\\Program.cs",
+              "ViewState": "AQIAAMYCAAAAAAAAAAAAAHUBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:13:59.928Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControllerOffice.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerOffice.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Core\\ControllerOffice.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerOffice.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Core\\ControllerOffice.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAgwMQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:48:41.206Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AdminForm.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AdminForm.cs [Design]",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T05:51:57.171Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControllerCar_Type.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerCar_Type.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Core\\ControllerCar_Type.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerCar_Type.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Core\\ControllerCar_Type.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAIIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:47:55.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControllerCType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerCType.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Core\\ControllerCType.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerCType.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Core\\ControllerCType.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwGMBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:48:21.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AdminForm.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AdminForm.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\AdminForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwBUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:03:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OptionsOfYes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\OptionsOfYes.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\OptionsOfYes.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\OptionsOfYes.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\OptionsOfYes.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAUwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:12:08.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AddForm.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\AddForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AddForm.cs [Design]",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\AddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:26:08.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RentCarDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\RentCarDbContext.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Data\\RentCarDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\RentCarDbContext.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Data\\RentCarDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wBkAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:56:53.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ControllerAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerAdmin.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Core\\ControllerAdmin.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerAdmin.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Core\\ControllerAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:29:27.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Car_Type.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\Entities\\Car_Type.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Data\\Entities\\Car_Type.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\Entities\\Car_Type.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Data\\Entities\\Car_Type.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:56:16.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Data\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\Entities\\Car.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Data\\Entities\\Car.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:56:09.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "No.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\No.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\No.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\No.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\No.cs",
+              "ViewState": "AQIAACUBAAAAAAAAAAA7wEQBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:12:03.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ControllerReservation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerReservation.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Core\\ControllerReservation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerReservation.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Core\\ControllerReservation.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAwAUBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:48:51.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Data\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\Entities\\Reservation.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Data\\Entities\\Reservation.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:56:47.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddRemoveUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AddRemoveUpdate.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\AddRemoveUpdate.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AddRemoveUpdate.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\AddRemoveUpdate.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAuwFcBAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:11:56.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ControllerCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerCustomer.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Core\\ControllerCustomer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Core\\ControllerCustomer.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Core\\ControllerCustomer.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAAAswPkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:48:31.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Yescs.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\Yescs.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\Yescs.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\Yescs.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\Yescs.cs",
+              "ViewState": "AQIAAF8BAAAAAAAAAAAIwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:12:13.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddRemoveUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AddRemoveUpdate.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\AddRemoveUpdate.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AddRemoveUpdate.cs [Design]",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\AddRemoveUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-20T05:48:58.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "No.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\No.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\No.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\No.cs [Design]",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\No.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-20T05:49:05.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AddForm.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\AddForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\AddForm.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\AddForm.cs",
+              "ViewState": "AQIAAB0BAAAAAAAAAAAAACQBAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:11:14.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OptionsOfYes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\OptionsOfYes.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\OptionsOfYes.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\OptionsOfYes.cs [Design]",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\OptionsOfYes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-20T05:47:01.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Yescs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\Yescs.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\Yescs.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\Yescs.cs [Design]",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\Yescs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-20T05:47:30.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\Form1.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:06:24.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-20T05:55:04.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoundPanel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\RoundPanel.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.WinForm1\\RoundPanel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.WinForm1\\RoundPanel.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.WinForm1\\RoundPanel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:58:18.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Office.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\Entities\\Office.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Data\\Entities\\Office.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\Entities\\Office.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Data\\Entities\\Office.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:56:40.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\Entities\\CType.cs",
+              "RelativeDocumentMoniker": "..\\RentCars\\RentCar.Data\\Entities\\CType.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\razrabotka na softuer\\RentCars\\RentCar.Data\\Entities\\CType.cs",
+              "RelativeToolTip": "..\\RentCars\\RentCar.Data\\Entities\\CType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:56:23.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

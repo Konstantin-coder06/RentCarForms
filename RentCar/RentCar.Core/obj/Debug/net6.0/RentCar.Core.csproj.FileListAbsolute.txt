@@ -1,0 +1,15 @@
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\bin\Debug\net6.0\RentCar.Core.deps.json
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\bin\Debug\net6.0\RentCar.Core.dll
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\bin\Debug\net6.0\RentCar.Core.pdb
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\bin\Debug\net6.0\RentCar.Data.dll
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\bin\Debug\net6.0\RentCar.Data.pdb
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\obj\Debug\net6.0\RentCar.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\obj\Debug\net6.0\RentCar.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\obj\Debug\net6.0\RentCar.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\obj\Debug\net6.0\RentCar.Core.AssemblyInfo.cs
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\obj\Debug\net6.0\RentCar.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\obj\Debug\net6.0\RentCar.Core.csproj.CopyComplete
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\obj\Debug\net6.0\RentCar.Core.dll
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\obj\Debug\net6.0\refint\RentCar.Core.dll
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\obj\Debug\net6.0\RentCar.Core.pdb
+C:\Users\User\Documents\razrabotka na softuer\RentCars\RentCar.Core\obj\Debug\net6.0\ref\RentCar.Core.dll
